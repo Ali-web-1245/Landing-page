@@ -13,17 +13,6 @@ A fast, fully responsive, and feature-rich **Landing Page** built using **HTML5*
 
 ---
 
-## 🖼️ Preview & Demo
-
-> 📌 *Add a screenshot or animated GIF of your landing page below:*
-
-![Landing Page Preview](./preview.png)
-
-🔗 **Live Preview:** [View Live Site](https://your-username.github.io/your-repo-name)  
-*(Replace with your live GitHub Pages, Vercel, or Netlify link)*
-
----
-
 ## 🧰 Tech Stack Used
 
 - **HTML5** – Semantic structure and accessible markup
